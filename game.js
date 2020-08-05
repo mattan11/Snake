@@ -27,5 +27,7 @@ function update() {
 }
 
 function draw() {
+  //clears board behind snake
+  gameBoard.innerHTML = "";
   drawSnake(gameBoard);
 }
