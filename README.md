@@ -7,8 +7,6 @@ To install this project at your computer clone this repository.
 
 $ git clone https:https://github.com/mattan11/Snake
 
-$ npm install
-
 ## Github Pages
 This project is located also at github pages at https://mattan11.github.io/Snake/
 
